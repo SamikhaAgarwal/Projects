@@ -10,5 +10,7 @@ stock price movement.
 • Implemented in Python and R
 
 Reference-links: 
+
 [1] <https://medium.com/mlreview/a-simple-deep-learning-model-for-stock-price-prediction-using-tensorflow-30505541d877>
+
 [2] <https://github.com/SATHVIKRAJU/Stock-Market-Prediction-using-Natural-Language-Processing>
