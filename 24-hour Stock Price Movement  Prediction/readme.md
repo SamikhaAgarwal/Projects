@@ -9,5 +9,5 @@ and to assess its predictive power.
 stock price movement.
 • Implemented in Python and R
 
-Reference-style: 
-![alt text][logo]
+Reference-links: 
+[1] <https://medium.com/mlreview/a-simple-deep-learning-model-for-stock-price-prediction-using-tensorflow-30505541d877>
